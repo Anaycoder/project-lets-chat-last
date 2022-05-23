@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    
+    background: rgb(245,236,246);
+background: linear-gradient(90deg, rgba(245,236,246,1) 5%, rgba(203,40,192,1) 75%, rgba(0,212,255,1) 100%);
+}
+
+#login_button
+{
+	width: 70%;border-radius: 15px;height: 5%;
+}
+
+img 
+{
+    border-radius: 25px;width: 300px;
+}

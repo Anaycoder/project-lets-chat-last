@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img
+{
+    border-radius: 15px;
+    width: 125px;
+    margin-top: 50px;
+}
+
